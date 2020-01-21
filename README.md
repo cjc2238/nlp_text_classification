@@ -1,5 +1,4 @@
-# nlp_text_classification
- Biomedical Literature Text Classification
+# NLP Text Classification of Biomedical Literature
 
 # Problem
 Classify given set of Pubmed abstracts (biomedical literature abstracts) into four classes:
